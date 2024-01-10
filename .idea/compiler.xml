@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spark_tp" />
         <module name="spark_ml" />
+        <module name="exam-ii" />
       </profile>
     </annotationProcessing>
   </component>
